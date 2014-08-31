@@ -1,0 +1,11 @@
+**/*.iml
+java-rest-servlet/.idea/
+java-rest-servlet/project/
+java-rest-servlet/target/
+scala-rest-client/.idea/
+scala-rest-client/project/
+scala-rest-client/target/
+scala-mongodb-client/.idea/
+scala-mongodb-client/lib/
+scala-mongodb-client/project/
+scala-mongodb-client/target/
